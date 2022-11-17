@@ -16,4 +16,4 @@ Our second strategy is an adaptation of our first pipeline, in which a Efficient
 
  ## Research Paper
  
- Research paper available at : [Research Paper Link](https://github.com/ZeerakBaig/Deep-Fake-Recognition/blob/main/ResearchPaper/ZeerakBaig_DeepFakeRecognition_VIT_2022.pdf)
+ Research paper available at : [Research Paper Link](https://github.com/ZeerakBaig/Galaxy-Morphology-Classification/blob/main/ResearchPaper/GalaxyMorphology_ZeerakBaig_ResearchPaper_2022.pdf)
